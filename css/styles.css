@@ -95,3 +95,13 @@ nav {
   color: #ffffff;
   border: none;
 }
+button:active {
+  transform: scale(1.1);
+}
+.model {
+  height: 400px;
+  position: absolute;
+  bottom: 90px;
+  left: 90%;
+  transform: translateX(-90%);
+}
