@@ -38,3 +38,8 @@ nav {
    font-size: 15px;
    font-weight: 700;
  }
+ .logo {
+   font-family: 'Courier New', Courier, monospace;
+   color: #000000;
+   font-size: 22px;
+ }
