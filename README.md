@@ -42,12 +42,17 @@
  #### You want to contribute? Great!
  #### Follow these steps:
  #### -Fork the repo
- #### create a new branch ('git checkout -b feat-improve')
+ #### Create a new branch ('git checkout -b feat-improve')
  #### Make the appropriate changes in the file
  #### Add changes to reflect the changes made
  #### Commit your changes
  #### Push to the branch ('git push origin feat-improve)
- #### Create a pull request
+ #### Create a Pull request
+
+
+ ## Github Pages
+
+ #### Here is a link to live site on Github Pages 'https://btg001.github.io/my-portforlio/'
 
 
  ## License
